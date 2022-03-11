@@ -1,0 +1,17 @@
+{
+  "name": "brzepka/purple-island",
+  "description": "Prpl.io Backend Test",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Bartosz Rzepka",
+      "email": "bartosz.rzepka@polcode.net"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}
