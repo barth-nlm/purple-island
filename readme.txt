@@ -1,5 +1,5 @@
 === PURPLE ISLAND ===
-Contributors: Bart Rzepka
+Contributors: Bartosz Rzepka
 Requires at least: 4.7
 Tested up to: 5.4
 Stable tag: 4.3
