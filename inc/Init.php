@@ -12,8 +12,8 @@ final class Init
 			Main\SettingsLink::class,
 			Main\CustomPostTypes::class,
 			Rest\RestApiInit::class,
-			// Rest\RestController::class,
-			// Rest\TradeCenter::class,
+			Rest\RestController::class,
+			Rest\TradeCenter::class,
 		];
 	}
 
